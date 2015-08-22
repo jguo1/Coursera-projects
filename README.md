@@ -7,3 +7,4 @@ Please Note
 
 1 simglegui可能无法在本地运行。 请使用CodeSkulptor(http://www.codeskulptor.org/)来测试本repo中的代码。 文档：http://www.codeskulptor.org/docs.html#tabs-Python
 2 如果您也在上这门课，请遵守Honor Code。
+3 有任何疑问请联系我
